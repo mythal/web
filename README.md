@@ -1,4 +1,3 @@
-AleaDea Web
-=========
+# Mythal Web
 
-Web page of the https://aleadea.com/
+Web page of the [Mythal Archive](https://log.mythal.net/)

@@ -17,6 +17,7 @@
   },
   "scripts": {
     "start": "parcel src/index.html",
+    "watch": "parcel --no-hmr src/index.html",
     "format": "prettier --write src/**",
     "build": "parcel build src/index.html"
   },
